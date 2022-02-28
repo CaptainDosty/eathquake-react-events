@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+body{
+  background-image:url(https://static.scientificamerican.com/sciam/cache/file/7F5C87CE-C719-4650-B4E8AEF44415E806_source.jpg) 
+}
+.events{
+  background-color:#282c34;
+  width: 300px;
+}
+p{
+  color: aqua;
+  background-color: #282c34;
+}
+a{
+  color: aqua;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
