@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eathquake-react-events/static/css/main.39a34046.css",
+    "main.js": "/eathquake-react-events/static/js/main.2399c8a7.js",
+    "static/js/787.02179709.chunk.js": "/eathquake-react-events/static/js/787.02179709.chunk.js",
+    "index.html": "/eathquake-react-events/index.html",
+    "main.39a34046.css.map": "/eathquake-react-events/static/css/main.39a34046.css.map",
+    "main.2399c8a7.js.map": "/eathquake-react-events/static/js/main.2399c8a7.js.map",
+    "787.02179709.chunk.js.map": "/eathquake-react-events/static/js/787.02179709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a34046.css",
+    "static/js/main.2399c8a7.js"
+  ]
+}
